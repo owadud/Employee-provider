@@ -3026,7 +3026,7 @@ width: 75%;
 
 /*========================end=========*/
 .menu .navbar ul li a:hover{
-    border-top: 6px solid #1eaa50;
+    border-bottom: 3px solid #1eaa50;
 
 
 }
